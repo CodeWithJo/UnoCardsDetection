@@ -17,8 +17,9 @@ install pillow python , tkinter, open cv and make sure you can import the librar
     
 Before you process any image, make sure you have the following folders and files 
 **In the root folder** 
+
   unobg2.png (if not available it might cause GUI issues) 
-  ImageReferences (a subfolder with this name) with all the files for the feature extraction / feature matching function
+  ImageReferences (Unzip) a subfolder with this name and with all the files for the feature extraction / feature matching function
  
 **Once you are set:**
 when you run file, a tkinter GUI opens up with two options/buttons
