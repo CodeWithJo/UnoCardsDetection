@@ -52,3 +52,5 @@ https://devdreamz.com/question/583210-error-invalid-number-of-channels-in-input-
 https://stackoverflow.com/questions/62324303/4-corners-of-a-playingcard-with-contours
 https://www.plus2net.com/python/tkinter-filedialog-upload-display.php
 https://pysource.com/2021/10/19/simple-color-recognition-with-opencv-and-python/
+https://github.com/EdjeElectronics/OpenCV-Playing-Card-Detector
+https://www.tutorialspoint.com/python/python_gui_programming.htm
