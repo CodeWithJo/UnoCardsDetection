@@ -43,14 +43,15 @@ when you run file, a tkinter GUI opens up with two options/buttons
         The results with be displayed on a pop up window 
   
 Find all project files at https://github.com/CodeWithJo/UnoCardsDetection.git
-illustration video at 
+illustration video at https://www.canva.com/design/DAFAayn_XtY/IsnNAM2fvu1lPi1IfHA3Bg/watch?utm_content=DAFAayn_XtY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink 
 
 
 Project references:
-https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_matcher/py_matcher.html
-https://devdreamz.com/question/583210-error-invalid-number-of-channels-in-input-image-vscncontainsscn-using-o
-https://stackoverflow.com/questions/62324303/4-corners-of-a-playingcard-with-contours
-https://www.plus2net.com/python/tkinter-filedialog-upload-display.php
-https://pysource.com/2021/10/19/simple-color-recognition-with-opencv-and-python/
-https://github.com/EdjeElectronics/OpenCV-Playing-Card-Detector
-https://www.tutorialspoint.com/python/python_gui_programming.htm
+
+        https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_matcher/py_matcher.html
+        https://devdreamz.com/question/583210-error-invalid-number-of-channels-in-input-image-vscncontainsscn-using-o
+        https://stackoverflow.com/questions/62324303/4-corners-of-a-playingcard-with-contours
+        https://www.plus2net.com/python/tkinter-filedialog-upload-display.php
+        https://pysource.com/2021/10/19/simple-color-recognition-with-opencv-and-python/
+        https://github.com/EdjeElectronics/OpenCV-Playing-Card-Detector
+        https://www.tutorialspoint.com/python/python_gui_programming.htm
