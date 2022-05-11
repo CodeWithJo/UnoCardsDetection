@@ -44,7 +44,7 @@ when you run file, a tkinter GUI opens up with two options/buttons
         The results with be displayed on a pop up window 
   
 Find all project files at https://github.com/CodeWithJo/UnoCardsDetection.git
-illustration video at https://www.canva.com/design/DAFAayn_XtY/IsnNAM2fvu1lPi1IfHA3Bg/watch?utm_content=DAFAayn_XtY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink 
+illustration video at https://www.canva.com/design/DAFAayn_XtY/bDUmFVYCpepkPK9CF3xviA/watch?utm_content=DAFAayn_XtY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 Project references:
