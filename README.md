@@ -42,3 +42,13 @@ when you run file, a tkinter GUI opens up with two options/buttons
         -and click open 
         The results with be displayed on a pop up window 
   
+Find all project files at https://github.com/CodeWithJo/UnoCardsDetection.git
+illustration video at 
+
+
+Project references:
+https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_matcher/py_matcher.html
+https://devdreamz.com/question/583210-error-invalid-number-of-channels-in-input-image-vscncontainsscn-using-o
+https://stackoverflow.com/questions/62324303/4-corners-of-a-playingcard-with-contours
+https://www.plus2net.com/python/tkinter-filedialog-upload-display.php
+https://pysource.com/2021/10/19/simple-color-recognition-with-opencv-and-python/
