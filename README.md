@@ -27,9 +27,9 @@ when you run file, a tkinter GUI opens up with two options/buttons
       Button 2 labled Upload Image 
   
  ** To detect the card features from the video stream click on the button 1**
-    and once the streaming starts show the card 
     
-        note:
+        Note:
+        Once the streaming starts show the card 
         For best results show the card upright and with the best natural light 
         I found that yellow and red cards work better in the evening with lighting in comparison to the blue and green cards.
 
